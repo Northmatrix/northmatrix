@@ -1,9 +1,9 @@
-# 🗻 Ratatoskr540
+# Ratatoskr540
 
 Hello, my name is *****, I am a programer from the UK 🇬🇧 ☕️ and i normally just code whatever i want whenever i want for no reason apart from the vibe.
 Recently ive been doing rust but i also do C and Python although most of those projects are private.
 
-## 💎 Most used languages
+## Most used languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
@@ -20,7 +20,7 @@ Recently ive been doing rust but i also do C and Python although most of those p
   --->
 </p>
 
-## ⚖️ My development environment
+## My development environment
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" />
@@ -29,9 +29,7 @@ Recently ive been doing rust but i also do C and Python although most of those p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg", width="40">
 </p>
 
-## 🔐 PGP Key
-
-[KEY](https://raw.githubusercontent.com/northmatrix/NorthMatrix/refs/heads/main/public-key.asc) FINGERPRINT: 7607 76D4 DE0C 6F04 28DD DAD8 4C1A 2194 695C 1AF
+##  PGP Key
 
 ## Extra
 
