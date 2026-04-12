@@ -1,4 +1,4 @@
-# Northmatrix
+# JxGrant
 
 Hello, my name is Jamie I am from the UK I study Mathematics.
 
